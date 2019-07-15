@@ -1,0 +1,8 @@
+150160156 Donald Knuth 80 70 85
+150140149 Grace Hopper 100 90 74
+150160128 Richard Stallman 0 0 0 0.00
+150150162 Mark Zuckerberg 30
+150150162 Mark Zuckerberg 30 20
+150160128 Richard Stallman 60 75 50
+150150162 Mark Zuckerberg 30 20 10
+150140112 Edger Dijkstra 80 70 96
